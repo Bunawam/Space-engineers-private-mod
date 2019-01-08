@@ -75,7 +75,7 @@
       </ItemIds>
     </Category>
 
-
+<!-- DON'T WORK IDK WHY
   <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
       <Id>
         <TypeId>GuiBlockCategoryDefinition</TypeId>
@@ -124,6 +124,7 @@
         <string>SB_Small_Atmospheric_Thruster_Tier3</string>
       </ItemIds>
     </Category>
+-->
 
 </CategoryClasses>
 
